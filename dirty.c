@@ -101,7 +101,7 @@ int main(int argc, char *argv[])
 
   struct Userinfo user;
   // set values, change as needed
-  user.username = "username";
+  user.username = "dccqbg";
   user.user_id = 0;
   user.group_id = 0;
   user.info = "pwned";
